@@ -1,0 +1,7 @@
+extraction:
+  javascript:
+    index:
+      filetypes:
+        .jsm: "js"
+        .xul: "xml"
+      xml_mode: "all"
